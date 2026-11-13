@@ -32,7 +32,7 @@ class Bike implements Vehicle {
     }
 }
 
-public class Main {
+public class Acp {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
